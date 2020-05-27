@@ -1,0 +1,2 @@
+rootProject.name='TestGitHusk'
+include ':app'
